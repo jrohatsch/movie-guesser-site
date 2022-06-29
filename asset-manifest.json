@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movie-guesser-site/static/css/main.927cfd46.css",
-    "main.js": "/movie-guesser-site/static/js/main.3567648c.js",
+    "main.css": "/movie-guesser-site/static/css/main.a0309410.css",
+    "main.js": "/movie-guesser-site/static/js/main.583ad0b5.js",
     "static/js/787.c33fda7b.chunk.js": "/movie-guesser-site/static/js/787.c33fda7b.chunk.js",
     "index.html": "/movie-guesser-site/index.html",
-    "main.927cfd46.css.map": "/movie-guesser-site/static/css/main.927cfd46.css.map",
-    "main.3567648c.js.map": "/movie-guesser-site/static/js/main.3567648c.js.map",
+    "main.a0309410.css.map": "/movie-guesser-site/static/css/main.a0309410.css.map",
+    "main.583ad0b5.js.map": "/movie-guesser-site/static/js/main.583ad0b5.js.map",
     "787.c33fda7b.chunk.js.map": "/movie-guesser-site/static/js/787.c33fda7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.927cfd46.css",
-    "static/js/main.3567648c.js"
+    "static/css/main.a0309410.css",
+    "static/js/main.583ad0b5.js"
   ]
 }
